@@ -1,0 +1,11 @@
+total 48
+-rw-rw---- 1 ml ml 1077 Jan  7 09:51 utils.pyc
+-rwxrwx--- 1 ml ml  613 Dez 15 05:34 utils.py
+-rw-rw---- 1 ml ml 7463 Jan  7 09:51 resnet_152.pyc
+-rwxrwx--- 1 ml ml 8796 Dez 15 05:34 resnet_152.py
+-rw-rw-r-- 1 ml ml    0 Jan  7 11:39 other_files.txt
+drwxrwx--- 2 ml ml 4096 Jan  6 17:15 models
+-rw-rw-r-- 1 ml ml 1411 Jan  7 03:40 extraction.py
+drwxrwx--- 2 ml ml 4096 Jan  7 09:51 custom_layers
+drwxrwxr-x 5 ml ml 4096 Jan  7 11:35 ..
+drwxrwxr-x 4 ml ml 4096 Jan  7 11:39 .
